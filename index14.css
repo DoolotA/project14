@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.back{
+margin: 0 auto;
+    background: black;
+    border-radius: 20px;
+}
+header .all .tt1{
+    padding: 0 50px;
+}
+header .eli img{
+    padding-left: 100px;
+    width: 150px;
+}
+.inst{
+    display: flex;
+    color: white;
+    align-items: center;
+    padding: 40px;
+    justify-content: space-around;
+}
+header .all1{
+    display: flex;
+    justify-content: space-between;
+}
+header .btn{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+header .btn button{
+    border-radius: 30px;
+    border: none;
+    background: blue;
+    padding: 10px 100px;
+    color: white;
+}
+header .btn2 img{
+padding-right: 20px;
+}
+header .title{
+    color: white;
+    padding-left: 220px;
+}
